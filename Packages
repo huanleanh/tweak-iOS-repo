@@ -1,0 +1,14 @@
+Package: xyz.itznebbs.libnebbs_1.7.deb
+Version: 1.7
+Section: Tweaks
+Maintainer: HuanLA <leanhhuanit@gmail.com>
+Depends: firmware (>7.0), mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/xyz.itznebbs.libnebbs_1.7.deb 
+Size: 37186
+MD5sum: 8093c97473cb87241dc8e3207a39c207
+Description: This is a sample new package. Firmware should be greater than 7.0
+Name: New Package
+Author: HuanLA <leanhhuanit@gmail.com>
+Depiction: X
+
